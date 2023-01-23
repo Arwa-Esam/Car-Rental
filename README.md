@@ -1,5 +1,5 @@
 # Car-Rental
-Software using java for renting cars
+Software using java for renting cars, use netbeans to run it
 
 
 ![Screenshot_20230122_225115](https://user-images.githubusercontent.com/46052811/213967347-418514df-24fa-4b63-9d5e-7e77e1d0d5bd.png)
